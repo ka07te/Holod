@@ -1,6 +1,6 @@
 # Holod
 
-<a>ka07te.github.io/Holod/</a>
+<a>https://ka07te.github.io/Holod/</a>
 
 <h1>Стек:</h1>
 
